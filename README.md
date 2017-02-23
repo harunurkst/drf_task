@@ -3,5 +3,5 @@
 http://localhost:8000/api/v1/contact/
 
 ### Contact Detail
-http://localhost:8000/api/v1/contact/
+http://localhost:8000/api/v1/contact/<pk>
 
